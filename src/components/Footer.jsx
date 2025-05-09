@@ -1,6 +1,4 @@
 import React, { useRef, useState } from "react";
-import { Link } from "react-router-dom";
-import { footerLinks } from "../constants";
 
 // FooterSection Component
 const FooterSection = ({ title, children }) => {
@@ -47,8 +45,6 @@ const FooterLink = ({ children }) => (
 export default function Footer() {
   return (
     <div className="bg-[#1d1d1f] px-3 lg:px-52">
-      {/* Breadcrumb Section */}
-      {/* <nav className="flex items-center gap-2 pl-40 py-1 mx-28"> */}
       <nav className="flex items-center gap-2  py-1 ">
         <a href="#" className="#FFFFFFCC text-[12px] hover:underline">
           <svg className="w-4 h-4" viewBox="0 0 17 17" fill="currentColor">
