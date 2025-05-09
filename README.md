@@ -32,7 +32,7 @@
   
   ## 🔗 **Live Preview**
 
-  Explore the live demo of the iPhone 16 Pro website: [🡽](https://i-phone-16-pro.vercel.app/)
+  Explore the live demo of the iPhone 16 Pro website: [🡽](https://iphone16pro-page.vercel.app/)
 
   <br/>
 
