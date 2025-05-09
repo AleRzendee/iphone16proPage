@@ -3,7 +3,7 @@ export const heroImg = hero;
 
 import hmv from "/assets/videos/hero.mp4";
 // import smallmv from "/assets/videos/smallHero.mp4";
-import small from "/assets/images/small.jpg"
+import small from "/assets/images/small.jpg";
 import highlightFirstmv from "/assets/videos/highlight-first.mp4";
 import highlightSecondmv from "/assets/videos/highlight-sec.mp4"; // Corrected name
 import highlightThirdmv from "/assets/videos/highlight-third.mp4"; // Corrected name
@@ -12,7 +12,6 @@ import highlightFifthmv from "/assets/videos/highlight-fifth.mp4"; // Added for 
 import highlightSixthmv from "/assets/videos/highlight-sixth.mp4"; // Added for the sixth highlight
 import exploremv from "/assets/videos/explore.mp4";
 import framemv from "/assets/videos/frame.mp4";
-
 
 import apple from "/assets/images/apple.svg";
 import search from "/assets/images/search.svg";
@@ -37,15 +36,14 @@ import ic2 from "/assets/images/IC2.jpg";
 import ic3 from "/assets/images/IC3.jpg";
 import ic4 from "/assets/images/IC4.jpg";
 
-
 export const heroVideo = hmv;
 export const smallHero = small;
 export const highlightFirstVideo = highlightFirstmv;
-export const highlightSecondVideo = highlightSecondmv; // Corrected name
-export const highlightThirdVideo = highlightThirdmv; // Corrected name
+export const highlightSecondVideo = highlightSecondmv;
+export const highlightThirdVideo = highlightThirdmv;
 export const highlightFourthVideo = highlightFourthmv;
-export const highlightFifthVideo = highlightFifthmv; // Added for the fifth highlight
-export const highlightSixthVideo = highlightSixthmv; // Added for the sixth highlight
+export const highlightFifthVideo = highlightFifthmv;
+export const highlightSixthVideo = highlightSixthmv;
 export const exploreVideo = exploremv;
 export const frameVideo = framemv;
 
@@ -71,9 +69,6 @@ export const ic1Img = ic1;
 export const ic2Img = ic2;
 export const ic3Img = ic3;
 export const ic4Img = ic4;
-
-// import  appleImg from "/assets/images/1.png";
-// export const appleIntelligenceImage =appleImg;
 
 import appleIntelligenceImg from "/assets/images/1.png";
 export const appleIntelligenceImage = appleIntelligenceImg;
@@ -102,5 +97,3 @@ export const img2card3 = img32;
 export const img3card1 = img13;
 export const img3card2 = img23;
 export const img3card3 = img33;
-
-
